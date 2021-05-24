@@ -1,0 +1,17 @@
+1. Classification.
+#application: spam detection.
+
+2.Regression
+#application:Stock price preediction
+
+3.Clustering 
+#application:Customer Segmentation
+
+4.Model selection
+#application:Improving model accuracy via parameter tuning.
+
+5. Dimensionality Reduction
+#application:TO increase model efficiency 
+
+6.Pre-Processing
+#application:Transforming input data such as text for use with Machine Learning algorithms
