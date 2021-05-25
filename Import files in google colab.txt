@@ -1,0 +1,3 @@
+                                           code to import files
+from google.colab import files
+files.upload()
