@@ -1,0 +1,8 @@
+                            Visualize missing value
+import missingno as mn
+mn.matrix(dataset_name)
+
+
+
+#pure black line means there is no null/missing values
+#white/striped lines means the presence of null/missing values
