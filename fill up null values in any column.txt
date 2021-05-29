@@ -1,0 +1,10 @@
+*** we can fill up the null values either with median or mean
+
+#find out mean or median of the column
+
+code:
+
+df.experience.mean()         #experience is a column name here
+exp_fit=df.experience.mean()   
+
+df.experience=df.experience.fillna(exp_fit)
